@@ -47,5 +47,3 @@ export class ProductDetailComponent implements OnInit {
 
 }
 
-
-
